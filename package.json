@@ -1,0 +1,26 @@
+{
+  "name": "ce301_golebiowska_oliwia",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  },
+  "main": "/Users/o.golebiowska/CE301_golebiowska_oliwia/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://cseegit.essex.ac.uk/ce301_21-22/CE301_golebiowska_oliwia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cookie-parser": "^1.4.6",
+    "express-session": "^1.17.2"
+  }
+}
